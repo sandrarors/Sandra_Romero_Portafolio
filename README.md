@@ -36,7 +36,7 @@ Aquí encontrarás una colección de trabajos que forman parte de un programa ed
 
 ## 📂 Proyectos  
 
-### 🎮 Análisis de Videojuegos  
+### 🎮 Análisis de datos de ventas de Videojuegos  
 
 📌 **Descripción:**  
 Análisis de datos de ventas de videojuegos en diferentes regiones para identificar patrones de éxito y detectar proyectos prometedores. Este análisis permite planificar campañas publicitarias más efectivas.  
@@ -47,7 +47,7 @@ Análisis de datos de ventas de videojuegos en diferentes regiones para identifi
 
 ---
 
-### 🆎 Pruebas A/B   
+### 🆎 Análisis de pruebas A/B para tienda en línea  
 
 📌 **Descripción:**  
 Evaluación del impacto de un nuevo sistema de recomendaciones en la conversión de usuarios a lo largo del embudo de ventas. Se analiza si cada etapa mejora al menos un 10% dentro de los primeros 14 días posteriores al registro.  
@@ -58,7 +58,7 @@ Evaluación del impacto de un nuevo sistema de recomendaciones en la conversión
 
 ---
 
-### 📚 App Libros SQL  
+### 📚 Análisis de base de datos de una plataforma de libros 
 
 📌 **Descripción:**  
 Análisis de datos sobre libros, autores, editoriales e interacción de usuarios con el servicio. El objetivo es generar una propuesta de valor para un nuevo producto en el mercado de aplicaciones para lectores.  
